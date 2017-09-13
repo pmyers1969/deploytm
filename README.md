@@ -1,0 +1,2 @@
+# deploytm
+deploy traffic manager
